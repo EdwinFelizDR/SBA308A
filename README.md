@@ -1,0 +1,2 @@
+This is a web application that allows users to explore and view images of various dog breeds. It consists of an HTML page with a dropdown menu to select different dog breeds and a gallery section where images of the selected breed are displayed dynamically. The application utilizes JavaScript modules to fetch a list of dog breeds from the Dog CEO API and to load corresponding images based on user selections.
+
